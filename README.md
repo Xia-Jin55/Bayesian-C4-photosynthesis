@@ -1,6 +1,7 @@
 # Bayesian-C4-photosynthesis
 Code for simulating C4 biochemical photosynthesis and deriving posterior distributions of Vcmax, Vpmax, ε, Jmax and Rd using Bayesian fitting of individual paired A/Ci-A/I response curves.
-# Running environment
+
+Running environment:
 Python == 3.10.13
 matplotlib == 3.8.0
 pandas == 2.2.1
