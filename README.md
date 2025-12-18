@@ -6,11 +6,11 @@ Author information:
 - xia.jin@uq.edu.au
 
 Running environment:
-Python == 3.10.13;
-matplotlib == 3.8.0;
-pandas == 2.2.1;
-numpy == 1.25.2;
-pymc == 5.6.1;
-arviz == 0.16.0;
-pytensor == 2.12.3;
-Note: the code has been tested on macOS only (using a Macbook Pro M1 16GB RAM), and may not be compatible with Windows.
+- Python == 3.10.13;
+- matplotlib == 3.8.0;
+- pandas == 2.2.1;
+- numpy == 1.25.2;
+- pymc == 5.6.1;
+- arviz == 0.16.0;
+- pytensor == 2.12.3;
+- Note: the code has been tested on macOS only (using a Macbook Pro M1 16GB RAM), and may not be compatible with Windows.
